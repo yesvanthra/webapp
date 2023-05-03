@@ -54,3 +54,4 @@ def update_user(user:User):
     user_db[username]=user.dict()
     return{'message':f'succesfully update:{username}'}
 print("hello world")
+print("hi ")
