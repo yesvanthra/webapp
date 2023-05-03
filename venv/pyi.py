@@ -55,3 +55,4 @@ def update_user(user:User):
     return{'message':f'succesfully update:{username}'}
 print("hello world")
 print("hi ")
+print("hello everone")
